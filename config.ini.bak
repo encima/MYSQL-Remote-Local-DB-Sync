@@ -1,0 +1,11 @@
+[Local]
+user: root
+password: 
+host: localhost
+db: db
+
+[Remote]
+user: root
+password: youknow
+host: db.hgfkjdgfhgdfshjss.us-west-2.rds.amazonaws.com
+db: db
